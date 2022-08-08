@@ -15,7 +15,3 @@
  $$ \frac{dz}{dt} =a_{15} y+a_{16} y^2+a_{17} y^3-a_{18} z-a_{19} yz$$
  
  Where x(t) is the concentration of insulin, y(t) is the population of glucose and z(t) is the population density of β-cells. There are 21 distinct model parameters, each has specific biological meaning, as discussed in project report, and could be adjusted to simulate both normal condition and metabolic disorders.
- 
- ## Model performance at normal condition
- ### 1. Time series and state space
- 
