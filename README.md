@@ -33,7 +33,7 @@ Time series exhibit chaotic behavior. No stable points or periodic orbits, as co
  The dynamical behavior of the ODE system can be determined by evaluation the eigenvalues of corresponding Jacobian matrix at each of the equilibrium points. The Jacobian matrix of the proposed system is given by:
  
 $$
-\left|\begin{array}
+J = \left|\begin{array}
   (-a_1+a_2 y & a_2 x+2a_3 y+3a_4 y^2 & a_5+2a_6 z+3a_7 z^2 \\
   -a_8-2a_9 x-3a_{10} x^2 & -a_8+a_{11} (1-2y) & -a_{12}-2a_{13} z-3a_{14} z^2\\
   0 & a_15+2a_{16} y+3a_{17} y^2-a_{19} z & -a_{18}-a_{19} y
