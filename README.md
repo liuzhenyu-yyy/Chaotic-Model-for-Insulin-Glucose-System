@@ -1,4 +1,4 @@
-# Chaotic Model for Insulin Glucose System
+# Chaotic Model for Insulin-Glucose System
  A chaotic model for the insulin-glucose regulatory system. Using this model, we could mimic several common metabolic disorders related to the system and identify key parameters responsible for the initiation of these disease.
  
 ## Description
